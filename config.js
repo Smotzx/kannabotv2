@@ -44,30 +44,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
-global.sgh = 'https://github.com/Jikarinka'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
+global.sig = 'Rahasia'
+global.sgh = 'Rahasia'
+global.sgc = 'https://chat.whatsapp.com/JLioYS7NUsY5V155GqvvkW'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = '62882009767382'
+global.povo = '-'
+global.pgopay = '62882009767382'
+global.ppulsa = '62882009767382'
+global.ppulsa2 = '62882009767382'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nomorbot = '628815082653'
+global.nomorown = '62882009767382'
+global.namebot = 'Fizz BOT Private Bot'
+global.nameown = 'Hapiss'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
+  ['62882009767382'],
   ['6285334930628'],
   ['18126338970'],
   ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
